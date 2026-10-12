@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "TOMORI POCKET",
+    "slug": "tomori-pocket-006",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["web", "ios", "android"],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png",
+      "name": "TOMORI POCKET",
+      "shortName": "POCKET",
+      "backgroundColor": "#FFFBF0",
+      "themeColor": "#3FC8A0",
+      "lang": "ja"
+    },
+    "experiments": {
+      "baseUrl": "/tomori-pocket-006"
+    }
+  }
+}
